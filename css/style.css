@@ -9,7 +9,7 @@ h1{
 
 h2{
 	letter-spacing: 2px;
-	font-size: 1.5em;
+	font-size: 2em;
 }
 
 p{
@@ -59,12 +59,11 @@ li{
 	font-size: 1.5em;
 	line-height: 1.5em;
 	background: rgba(161, 169, 176, 0.3);
-
     display: inline-block;
 }
 
 .spacer{
-	height: 8em;
+	height: 6em;
 }
 
 .navbar-brand{
@@ -138,7 +137,6 @@ li{
 
 .fa-map-marker{
 	font-size: 1.5em;
-
 }
 
 .circle {
@@ -163,3 +161,16 @@ li{
 .shadow{
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
+
+.separateur{
+	width: 900px;
+	overflow: visible;
+	margin: 25px auto auto;
+	border-bottom: 1px solid #D4D5D9;
+}
+
+.quote{
+	text-align: center;
+	font-size: 1.5em;
+}
+
